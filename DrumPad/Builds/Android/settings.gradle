@@ -1,0 +1,2 @@
+rootProject.name = 'DrumPad'
+include ':app'

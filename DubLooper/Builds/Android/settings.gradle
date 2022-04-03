@@ -1,0 +1,2 @@
+rootProject.name = 'DubLooper'
+include ':app'
