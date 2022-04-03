@@ -8,6 +8,9 @@ Books and websites referenced to develop sample codes in this repository:
 - [The C++ Programming Language](https://www.informit.com/store/c-plus-plus-programming-language-9780321563842) by Bjarne Stroustrup
 - [JUCE Tutorials](https://juce.com/learn/tutorials)
 
+## Acknowledgements
+This project would not have been possible without the support from people, including [Richard Boulanger](https://www.csounds.com/boulanger/) and [Nikhil Singh](https://web.media.mit.edu/~nsingh1/About/).
+
 ## Contributing
 We welcome contributions and suggestions. Copyright for sample code belongs to the author(s). However, you are encouraged to fork and contribute minor corrections and updates under fair use.
 
